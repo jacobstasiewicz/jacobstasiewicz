@@ -1,2 +1,1 @@
-Hi im Jacob Stasiewicz, I am currently and undergradute coastal engineering student at the university of North Carolina, I work in the Coastal Eningeeringlabratory developing import and low-cost instrumewntation. I have a focus in Artificial Intelligence and Machine Learning and worked on projects ranging from Coastal Camera to identify storm surge related events to imaging for UMV (unmanded marine vehicles).
-
+Coastal Researcher
